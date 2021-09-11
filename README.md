@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahilgpt4103" target="blank"><img src="https://img.shields.io/twitter/follow/sahilgpt4103?logo=twitter&style=for-the-badge" alt="sahilgpt4103" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **https://www.instagram.com/sahilgupta_._/**
 
