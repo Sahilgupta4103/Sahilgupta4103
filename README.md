@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **UI/UX DESIGNING**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Blockchain**
 
 - 📫 How to reach me **https://www.instagram.com/sahilgupta_._/**
 
