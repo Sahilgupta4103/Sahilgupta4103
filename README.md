@@ -27,10 +27,9 @@
 <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ sahilgupta4103"><br> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" sahilgupta4103" /></a></p><br><br>
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilgupta4103&show_icons=true&locale=en&layout=compact" alt="sahilgupta4103" /></p>
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" sahilgupta4103" /></a></p><br>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilgupta4103&show_icons=true&locale=en&layout=compact" alt="sahilgupta4103" /></p>
 <br>
 <p>&nbsp;
 <br><img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilgupta4103&show_icons=true&locale=en" alt="sahilgupta4103" /></p>
